@@ -10,7 +10,7 @@ face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_alt.xml")
 skip = 0
 face_data = []
 dataset_path='./data/'
-file_name = input("Enter the name of the person : ")
+file_name = input("nome della persona : ")
 while True:
     ret,frame = cap.read()
 
