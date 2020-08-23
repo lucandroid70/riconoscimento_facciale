@@ -3,7 +3,11 @@ Sistema di riconoscimento facciale in python3 creato da con libreria CV2
 
 Sistema di riconoscimento facciale in python3 creato da Luca Sabato con libreria CV2 
 
+git clone https://github.com/lucandroid70/riconoscimento_facciale.git
 
+nella directory riconoscimento_facciale creare la cartella data
+
+con mkdir data 
 
 
 $ pip3 install opencv-python
