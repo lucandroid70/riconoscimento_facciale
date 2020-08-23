@@ -63,3 +63,5 @@ print("Data Successfully save at "+dataset_path+file_name+'.npy')
 
 cap.release()
 cv2.destroyAllWindows()
+
+#Sistema di riconoscimento facciale in python3 creato da Luca Sabato luca.droi@outlook.it con libreria CV2 
