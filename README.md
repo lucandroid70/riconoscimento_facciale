@@ -21,13 +21,13 @@ Prima di lanciare i comandi successivi contenete la vostra webcam!
  
 ho usato una Trust WebCam HD da 20 euro, su Linux Mint 20 Ulyana ovviamente 64bit
 
-per acquisire il volto ed i suoi peculiarità biometriche lanciare da terminale 
+per acquisire il volto e le sue peculiarità biometriche lanciare da terminale 
 
 
 $ python3 fase1.py
 
 
-Il quadrato giallo indica che il riconoscimento è in atto, non uscire dall'inquadratura, poichè il programma si stoppa senza salvare alcuna informazione, per terminare la registrazione biometrica premere il tasto "q". Verrà salvato un file con il nome che è stato inserito prima, la cartella la cercate VOI!
+Il quadrato giallo indica che il riconoscimento è in atto, non uscire dall'inquadratura, poichè il programma si stoppa senza salvare alcuna informazione, per terminare la registrazione biometrica premere il tasto "q" l'interruzione avviene se avete selezionato une delle due finestre attive dove sono visibili il volto. Alla chiusura del programma verrà salvato un file con il nome che è stato inserito prima, la cartella data!
 
 
 
